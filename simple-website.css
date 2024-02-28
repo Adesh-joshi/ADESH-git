@@ -1,0 +1,19 @@
+.cointainer{
+    width: 500px;    
+    margin: 0 auto;
+}
+header{
+    border: 2px solid rgb(47, 46, 46);
+    text-align: center;
+    margin-bottom: 10px;
+}
+#first{
+    border: 2px solid black;
+    margin-bottom: 40px;
+}
+.second{
+   margin-top: 40pxS;
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+    margin-top: 20pxS;
+}

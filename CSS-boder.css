@@ -1,0 +1,10 @@
+h2 , img{
+    border-bottom: 4px solid red;
+}
+div{
+    border: 8px outset green;
+    border-radius: 5px;
+}
+li{
+    border: 3px inset black;
+}
