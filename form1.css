@@ -6,6 +6,7 @@ input:focus{
     outline: none;
 }
 .first{
+    content: HEllO;
     border: 2px solid black;
     text-align: center;
     background-color: aqua;
