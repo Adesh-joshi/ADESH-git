@@ -19,3 +19,6 @@ section.my-articles > h2{
 h2+p{
     color: hotpink;
 }
+p::first-letter{
+    font-size: 32px;
+}
