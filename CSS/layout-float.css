@@ -2,19 +2,19 @@
     box-sizing: border-box;
 }
 .fav-musicians{
-    border: 10px solid black;
+    /* border: 10px solid black; */
 }
 .mozart{
     width: 25%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     float: left;
-    background: #cdbfbf;
+    /* background: #cdbfbf; */
     padding: 20px;
 }
 .beethoven{
     width: 25%;
     float: left;
-    background: blueviolet;
+    /* background: blueviolet; */
     padding: 20px;
 }
 .box{
@@ -28,7 +28,7 @@
     float: left;
     width: 25%;
     padding: 20px;
-    background: rgb(61, 47, 169);
+    /* background: rgb(61, 47, 169); */
 
 }
 .last{
