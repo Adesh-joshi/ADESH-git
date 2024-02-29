@@ -2,7 +2,7 @@ body{
     background-color: rgb(69, 69, 95);
 }
 input:focus{
-    padding: 5px;
+    padding: 20px;
     outline: none;
 }
 .first{
