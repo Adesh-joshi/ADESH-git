@@ -21,6 +21,7 @@ input[type="submit"]
 {
     text-align: center;
     background-color: rgb(44, 44, 91);
+    /* transform: translate(-200px); */
   
 }
 #third{
