@@ -17,13 +17,7 @@
     /* background: blueviolet; */
     padding: 20px;
 }
-.box{
-   
-    clear: both;
-}
-.clearfix{
-    clear:both;
-}
+
 .second{
     float: left;
     width: 25%;
@@ -31,6 +25,15 @@
     /* background: rgb(61, 47, 169); */
 
 }
+
+.box{
+   
+    clear: both;
+}
+.clearfix{
+    clear:both;
+}
+
 .last{
     float: left;
     width: 25%;
