@@ -1,0 +1,31 @@
+.circle{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    background: rgb(255, 255, 255);
+    border-radius: 50%;
+    border: 10px solid black;
+    border-top: 10px solid gray;
+    position: absolute;
+    animation-name: move;
+    animation-duration: 1.8s;
+    animation-delay: 0s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+
+
+}
+
+@keyframes move {
+    from{
+        /* left: 0px; */
+        rotate: 0deg;
+    }
+    to{
+        /* left: 60%; */
+        rotate: 360deg;
+    }
+}

@@ -1,17 +1,17 @@
 a:link{
-    color: orange;
+    color: rgb(255, 171, 15);
 }
 a:visited{
-    color: yellowgreen;
+    color: rgba(24, 25, 19, 0.639);
 
 }
 a:hover{
     color: green;
 }
 a:active{
-    color: blue;
+    color: rgba(0, 0, 181, 0.965);
 }
 p:hover{
-    background: #856969;
+    background: #261f1f;
 
 }

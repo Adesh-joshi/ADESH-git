@@ -1,0 +1,20 @@
+.box{
+   width: 100px;
+   height: 100px;
+   font-size: 1.8rem;
+   background: lightcoral;
+   margin: 20px auto;
+   transform-origin: top right;
+   transition: transform 2s ease-in-out;
+   /* transform: rotate(39deg); */
+}
+
+.box:hover{
+    transform: rotate(-360deg);
+
+    /* transform: scaleX(2);
+    transform: scaleY(2.3); */
+    /* transform: translateX(50px); */
+    /* transform: skewX(360deg); */
+
+}

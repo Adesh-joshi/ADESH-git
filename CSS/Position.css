@@ -15,34 +15,34 @@ body {
 }
 
 .container h1 {
-    /* position: static; */
+    position: static; 
     
     border: 3px solid red;
     background: lightslategray;
-    /* position: relative; */
-    /* left: 50px; */
-    /* top: 100px; */
-    /* z-index: -1; */
-    /* position: absolute;
+     position: relative; 
+     left: 50px; 
+     top: 100px; 
+     z-index: -1; 
+     position: absolute;
     left: 50%;
     top:50%;
-    transform: translate(-50%,-50%); */
-    /* top: 0px; */
+    transform: translate(-50%,-50%); 
+     top: 0px; 
 }
  
 .container h3{
     color: #fff;
     background: black;
-    /* position: fixed;
-    top:0px;
-    z-index: 10px; */
-    /* position: sticky;
-    top: 0px; */
+     position: fixed;
+    top: 0px;
+    z-index: 10px; 
+     position: sticky;
+     top: 0px; 
 
 }
     
 .container p{
-    border: 4px solid purple;
+    border: 4px solid rgba(128, 0, 128, 0.498);
     background: lightgreen;
 }
 

@@ -38,6 +38,7 @@
     float: left;
     width: 25%;
     padding: 20px;
+  
 
 }
 .fav-musicians::after{
@@ -46,3 +47,39 @@
     clear: both;
 
 }
+
+
+/* ####################### Flex Box for Container #################################  */
+/* .fav-musicians{
+    flex-direction: row;
+    flex-direction: row-reverse;
+    flex-direction: column;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: center;
+    justify-content: space-around;
+
+    
+}  */
+.fav-musicians
+{
+    /* align-items: start;
+    align-items: flex-start; */
+
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+/* ################## Flex box for items ################# */
+
+.fav-musicians{
+    align-self: flex-start;
+    order: 2;
+    flex-basis: 100px;
+    flex-grow: 3;
+    flex-shrink: 2;
+    flex: 1 2 300px;
+     
+}
+
